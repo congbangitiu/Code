@@ -1,3 +1,4 @@
+// q1 lab1
 #include <stdio.h>
 void f(const int *xPtr);
 int main(void)
